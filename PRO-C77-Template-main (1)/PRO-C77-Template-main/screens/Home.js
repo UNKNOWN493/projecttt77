@@ -26,10 +26,10 @@ export default class HomeScreen extends Component {
                 
                
                 
-                { <ImageBackground 
+                 <ImageBackground 
                         source={require('../assets/stars.gif')} 
                         style={styles.backgroundImage}> 
-                }
+                
                 {/* <BackgroundImage
                         source={require('../assets/stars.gif')} 
                         style={styles.backgroundImage}> 
